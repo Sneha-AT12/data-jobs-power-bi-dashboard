@@ -123,7 +123,7 @@ The <b>back button</b> in the top-left corner returns to the main page.
 </p>
 
 <p align="center">
-  <img src="images/2_drill_through.png" width="850" alt="Drill-through page for Data Scientist">
+  <img src="https://github.com/Sneha-AT12/data-jobs-power-bi-dashboard/blob/49bb343932bc2d89c881440cd95010fe20610317/2_drill_through.png" width="850" alt="Drill-through page for Data Scientist">
 </p>
 <p align="center"><i>Drill-through page for "Data Scientist" with a posting date slicer.</i></p>
 
