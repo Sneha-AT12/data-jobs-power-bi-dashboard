@@ -137,7 +137,7 @@ the job count, the salary cards, the trend line, the scatter plot and the table 
 </p>
 
 <p align="center">
-  <img src="images/3_cross_filter.png" width="850" alt="Dashboard filtered to Data Analyst and Senior Data Analyst">
+  <img src="https://github.com/Sneha-AT12/data-jobs-power-bi-dashboard/blob/aac1f6eeddddb189315d7190b9233efa7d2b7682/3_cross_filter.png" width="850" alt="Dashboard filtered to Data Analyst and Senior Data Analyst">
 </p>
 <p align="center"><i>The same dashboard after selecting two job titles: 128K jobs, $93K median yearly salary and $32.50 median hourly salary.</i></p>
 
