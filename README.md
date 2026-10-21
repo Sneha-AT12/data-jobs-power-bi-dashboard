@@ -108,7 +108,7 @@ The first page shows the big picture: how many jobs exist, what they pay, how hi
 </p>
 
 <p align="center">
-  <img src="images/1_main_dashboard.png" width="850" alt="Main Power BI dashboard showing all data jobs">
+  <img src="https://github.com/Sneha-AT12/data-jobs-power-bi-dashboard/blob/7252763847a1a4d887eff9a61cbd88e5e62a4a7f/1_main_dashboard.png" width="850" alt="Main Power BI dashboard showing all data jobs">
 </p>
 <p align="center"><i>Main page: 479K jobs, median yearly salary $113K and median hourly salary $47.62.</i></p>
 
